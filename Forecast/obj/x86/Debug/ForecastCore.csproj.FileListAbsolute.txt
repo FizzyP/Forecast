@@ -1,0 +1,2 @@
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\Forecast\obj\x86\Debug\Forecast.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\Forecast\obj\x86\Debug\Forecast.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forecast", "Forecast\Forecast.csproj", "{4C4A8905-4346-4E5F-B3E8-1C7A347DE592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastTool", "ForecastTool\ForecastTool.csproj", "{86029FD5-C8F2-4BFC-84A6-619548E963F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4A8905-4346-4E5F-B3E8-1C7A347DE592}.Debug|x86.ActiveCfg = Debug|x86
+		{4C4A8905-4346-4E5F-B3E8-1C7A347DE592}.Debug|x86.Build.0 = Debug|x86
+		{4C4A8905-4346-4E5F-B3E8-1C7A347DE592}.Release|x86.ActiveCfg = Release|x86
+		{4C4A8905-4346-4E5F-B3E8-1C7A347DE592}.Release|x86.Build.0 = Release|x86
+		{86029FD5-C8F2-4BFC-84A6-619548E963F3}.Debug|x86.ActiveCfg = Debug|x86
+		{86029FD5-C8F2-4BFC-84A6-619548E963F3}.Debug|x86.Build.0 = Debug|x86
+		{86029FD5-C8F2-4BFC-84A6-619548E963F3}.Release|x86.ActiveCfg = Release|x86
+		{86029FD5-C8F2-4BFC-84A6-619548E963F3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

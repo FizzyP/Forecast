@@ -1,0 +1,11 @@
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\bin\Debug\ForecastTool.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\bin\Debug\ForecastTool.pdb
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\bin\Debug\Forecast.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\bin\Debug\Forecast.pdb
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\ForecastTool.Form1.resources
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\ForecastTool.Properties.Resources.resources
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\ForecastTool.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2010\Projects\Forecast\ForecastTool\obj\x86\Debug\ForecastTool.pdb

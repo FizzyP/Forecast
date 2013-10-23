@@ -1,0 +1,5 @@
+c:\users\fabrizio\documents\visual studio 2010\Projects\Forecast\Forecast\bin\Debug\Forecast.exe
+c:\users\fabrizio\documents\visual studio 2010\Projects\Forecast\Forecast\bin\Debug\Forecast.pdb
+c:\users\fabrizio\documents\visual studio 2010\Projects\Forecast\Forecast\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fabrizio\documents\visual studio 2010\Projects\Forecast\Forecast\obj\x86\Debug\Forecast.exe
+c:\users\fabrizio\documents\visual studio 2010\Projects\Forecast\Forecast\obj\x86\Debug\Forecast.pdb
